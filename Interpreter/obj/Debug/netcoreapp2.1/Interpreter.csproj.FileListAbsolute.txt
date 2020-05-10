@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp2.1\Interpreter.deps.json
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp2.1\Interpreter.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp2.1\Interpreter.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp2.1\Interpreter.dll
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\bin\Debug\netcoreapp2.1\Interpreter.pdb
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.dll
+C:\Users\Ivan\source\repos\Interpreter\Interpreter\obj\Debug\netcoreapp2.1\Interpreter.pdb
